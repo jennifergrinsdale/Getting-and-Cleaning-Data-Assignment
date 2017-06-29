@@ -40,7 +40,7 @@ The R script is annotated to describe each processing step. These include:
 13. Renaming variables to human_readable format
 14. Sorting the data frame by subject id and activity
 15. Calculating the average of the mean and standard deviation variables for each subject/activitiy pair
-16. Creating the final 'run_analysis_tidy_dataset.csv' file
+16. Creating the final 'run_analysis_tidy_dataset.txt' file
 
 #Tidy Dataset
 
